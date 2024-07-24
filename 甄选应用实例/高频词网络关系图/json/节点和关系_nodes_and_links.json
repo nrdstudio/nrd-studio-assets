@@ -1,0 +1,794 @@
+{
+    "nodes": [
+        {
+            "desc": "一个",
+            "zValue": 1000,
+            "r": 80,
+            "fill": "#BBFFFF",
+            "fontSize": 16,
+            "id": 0,
+            "name": "a"
+        },
+        {
+            "desc": "和",
+            "zValue": 982,
+            "r": 78,
+            "fill": "#96CDCD",
+            "fontSize": 16,
+            "id": 1,
+            "name": "and"
+        },
+        {
+            "desc": "远离",
+            "zValue": 711,
+            "r": 76,
+            "fill": "#FFEFD5",
+            "fontSize": 16,
+            "id": 2,
+            "name": "away"
+        },
+        {
+            "desc": "大的",
+            "zValue": 704,
+            "r": 74,
+            "fill": "#00CDCD",
+            "fontSize": 16,
+            "id": 3,
+            "name": "big"
+        },
+        {
+            "desc": "蓝色的",
+            "zValue": 662,
+            "r": 72,
+            "fill": "#6495ED",
+            "fontSize": 16,
+            "id": 4,
+            "name": "blue"
+        },
+        {
+            "desc": "能，会",
+            "zValue": 633,
+            "r": 70,
+            "fill": "#54FF9F",
+            "fontSize": 16,
+            "id": 5,
+            "name": "can"
+        },
+        {
+            "desc": "来",
+            "zValue": 543,
+            "r": 68,
+            "fill": "#8470FF",
+            "fontSize": 16,
+            "id": 6,
+            "name": "come"
+        },
+        {
+            "desc": "向下",
+            "zValue": 512,
+            "r": 66,
+            "fill": "#C0FF3E",
+            "fontSize": 16,
+            "id": 7,
+            "name": "down"
+        },
+        {
+            "desc": "发现",
+            "zValue": 499,
+            "r": 64,
+            "fill": "#00CED1",
+            "fontSize": 16,
+            "id": 8,
+            "name": "find"
+        },
+        {
+            "desc": "为......",
+            "zValue": 482,
+            "r": 62,
+            "fill": "#E0FFFF",
+            "fontSize": 16,
+            "id": 9,
+            "name": "for"
+        },
+        {
+            "desc": "有趣的",
+            "zValue": 475,
+            "r": 60,
+            "fill": "#8FBC8F",
+            "fontSize": 16,
+            "id": 10,
+            "name": "funny"
+        },
+        {
+            "desc": "去",
+            "zValue": 310,
+            "r": 58,
+            "fill": "#EEDC82",
+            "fontSize": 16,
+            "id": 11,
+            "name": "go"
+        },
+        {
+            "desc": "帮助",
+            "zValue": 300,
+            "r": 56,
+            "fill": "#20B2AA",
+            "fontSize": 16,
+            "id": 12,
+            "name": "help"
+        },
+        {
+            "desc": "这里",
+            "zValue": 290,
+            "r": 54,
+            "fill": "#FFD700",
+            "fontSize": 16,
+            "id": 13,
+            "name": "here"
+        },
+        {
+            "desc": "在里面",
+            "zValue": 283,
+            "r": 52,
+            "fill": "#FFC1C1",
+            "fontSize": 16,
+            "id": 14,
+            "name": "in"
+        },
+        {
+            "desc": "是",
+            "zValue": 210,
+            "r": 50,
+            "fill": "#CD5C5C",
+            "fontSize": 16,
+            "id": 15,
+            "name": "is"
+        },
+        {
+            "desc": "它",
+            "zValue": 194,
+            "r": 48,
+            "fill": "#FF8247",
+            "fontSize": 16,
+            "id": 16,
+            "name": "it"
+        },
+        {
+            "desc": "跳，跃",
+            "zValue": 184,
+            "r": 46,
+            "fill": "#FFA07A",
+            "fontSize": 16,
+            "id": 17,
+            "name": "jump"
+        },
+        {
+            "desc": "少到几乎没有的",
+            "zValue": 283,
+            "r": 44,
+            "fill": "#FF69B4",
+            "fontSize": 16,
+            "id": 18,
+            "name": "little"
+        },
+        {
+            "desc": "看",
+            "zValue": 210,
+            "r": 42,
+            "fill": "#FF3030",
+            "fontSize": 16,
+            "id": 19,
+            "name": "look"
+        },
+        {
+            "desc": "做，使",
+            "zValue": 194,
+            "r": 40,
+            "fill": "#FF00FF",
+            "fontSize": 16,
+            "id": 20,
+            "name": "make"
+        },
+        {
+            "desc": "我",
+            "zValue": 184,
+            "r": 38,
+            "fill": "#FFA07A",
+            "fontSize": 16,
+            "id": 21,
+            "name": "me"
+        },
+        {
+            "desc": "我的",
+            "zValue": 122,
+            "r": 36,
+            "fill": "#EEDFCC",
+            "fontSize": 16,
+            "id": 22,
+            "name": "my"
+        },
+        {
+            "desc": "不是",
+            "zValue": 103,
+            "r": 34,
+            "fill": "#FF6347",
+            "fontSize": 16,
+            "id": 23,
+            "name": "not"
+        },
+        {
+            "desc": "一个",
+            "zValue": 99,
+            "r": 32,
+            "fill": "#FFB5C5",
+            "fontSize": 16,
+            "id": 24,
+            "name": "one"
+        },
+        {
+            "desc": "玩，弹奏",
+            "zValue": 83,
+            "r": 30,
+            "fill": "#4876FF",
+            "fontSize": 16,
+            "id": 25,
+            "name": "play"
+        },
+        {
+            "desc": "红色的",
+            "zValue": 43,
+            "r": 28,
+            "fill": "#BF3EFF",
+            "fontSize": 16,
+            "id": 26,
+            "name": "red"
+        },
+        {
+            "desc": "跑",
+            "zValue": 20,
+            "r": 26,
+            "fill": "#B0E2FF",
+            "fontSize": 16,
+            "id": 27,
+            "name": "run"
+        },
+        {
+            "desc": "说（say的过去式）",
+            "zValue": 10,
+            "r": 24,
+            "fill": "#EED5D2",
+            "fontSize": 16,
+            "id": 28,
+            "name": "said"
+        },
+        {
+            "desc": "看见",
+            "zValue": 10,
+            "r": 22,
+            "fill": "#CD4F39",
+            "fontSize": 16,
+            "id": 29,
+            "name": "see"
+        }
+    ],
+    "links": [
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 0,
+            "to": 1,
+            "id": 0
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 0,
+            "to": 2,
+            "id": 1
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 0,
+            "to": 3,
+            "id": 2
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 0,
+            "to": 4,
+            "id": 3
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 1,
+            "to": 5,
+            "id": 4
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 1,
+            "to": 4,
+            "id": 5
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 1,
+            "to": 6,
+            "id": 6
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 1,
+            "to": 7,
+            "id": 7
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 2,
+            "to": 7,
+            "id": 8
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 2,
+            "to": 8,
+            "id": 9
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 2,
+            "to": 6,
+            "id": 10
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 3,
+            "to": 9,
+            "id": 11
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 3,
+            "to": 10,
+            "id": 12
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 3,
+            "to": 11,
+            "id": 13
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 3,
+            "to": 12,
+            "id": 14
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 4,
+            "to": 12,
+            "id": 15
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 4,
+            "to": 11,
+            "id": 16
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 4,
+            "to": 13,
+            "id": 17
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 4,
+            "to": 14,
+            "id": 18
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 5,
+            "to": 15,
+            "id": 19
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 5,
+            "to": 14,
+            "id": 20
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 7,
+            "to": 17,
+            "id": 21
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 7,
+            "to": 16,
+            "id": 22
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 7,
+            "to": 18,
+            "id": 23
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 8,
+            "to": 21,
+            "id": 24
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 8,
+            "to": 20,
+            "id": 25
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 8,
+            "to": 22,
+            "id": 26
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 8,
+            "to": 23,
+            "id": 27
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 9,
+            "to": 24,
+            "id": 28
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 9,
+            "to": 25,
+            "id": 29
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 9,
+            "to": 26,
+            "id": 30
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 9,
+            "to": 27,
+            "id": 31
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 10,
+            "to": 28,
+            "id": 32
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 10,
+            "to": 27,
+            "id": 33
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 10,
+            "to": 29,
+            "id": 34
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 11,
+            "to": 29,
+            "id": 35
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 19,
+            "to": 1,
+            "id": 36
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 19,
+            "to": 18,
+            "id": 37
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 19,
+            "to": 20,
+            "id": 38
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 21,
+            "to": 22,
+            "id": 39
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 21,
+            "to": 23,
+            "id": 40
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 21,
+            "to": 24,
+            "id": 41
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 21,
+            "to": 25,
+            "id": 42
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 21,
+            "to": 26,
+            "id": 43
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 24,
+            "to": 26,
+            "id": 44
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 24,
+            "to": 25,
+            "id": 45
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 24,
+            "to": 23,
+            "id": 46
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 24,
+            "to": 22,
+            "id": 47
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 25,
+            "to": 26,
+            "id": 48
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 25,
+            "to": 24,
+            "id": 49
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 26,
+            "to": 24,
+            "id": 50
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 26,
+            "to": 25,
+            "id": 51
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 26,
+            "to": 27,
+            "id": 52
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 28,
+            "to": 26,
+            "id": 53
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 28,
+            "to": 27,
+            "id": 54
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 13,
+            "to": 1,
+            "id": 55
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 13,
+            "to": 3,
+            "id": 56
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 15,
+            "to": 1,
+            "id": 57
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 15,
+            "to": 0,
+            "id": 58
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 15,
+            "to": 26,
+            "id": 59
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 15,
+            "to": 25,
+            "id": 60
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 17,
+            "to": 27,
+            "id": 61
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 17,
+            "to": 26,
+            "id": 62
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 17,
+            "to": 25,
+            "id": 63
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 17,
+            "to": 24,
+            "id": 64
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 16,
+            "to": 25,
+            "id": 65
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 16,
+            "to": 26,
+            "id": 66
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 16,
+            "to": 27,
+            "id": 67
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 9,
+            "to": 18,
+            "id": 68
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 11,
+            "to": 16,
+            "id": 69
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 17,
+            "to": 27,
+            "id": 70
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 7,
+            "to": 15,
+            "id": 71
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 15,
+            "to": 16,
+            "id": 72
+        },
+        {
+            "relation": "",
+            "stroke": "#c0bfbf",
+            "from": 27,
+            "to": 7,
+            "id": 73
+        }
+    ]
+}
